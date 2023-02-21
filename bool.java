@@ -59,14 +59,12 @@ public static void main (String[] args){
 }*/
 public class bool {
     public static void main (String[] args){
-        Scanner tastiera = new Scanner(System.in);
-        System.out.println("inserisci i numeri");
-        int numero = Integer.parseInt(tastiera.nextLine());
-        int n1 =1, n2= 2, n3=4;
-     boolean triangolo = n1+n2<=n3 || 
-       
+    
+        int n1 =2, n2= 2, n3=3;
+     boolean triangolo = (n1<n2+n3) && (n2<n1+n3) && (n3< n2+n1);
+       System.out.println(triangolo);
 
-        tastiera.close(); 
+        
     }
 }
 
