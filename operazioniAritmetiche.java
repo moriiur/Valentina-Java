@@ -10,8 +10,7 @@ public class operazioniAritmetiche {
         System.out.println(base);
 
         System.out.println("Quale è l'altezza?");
-        int altezza = Integer.parseInt(tastiera.nextLine()); // meglio usare questa sintasse per prendere tutta la linea
-                                                             // di carratteri
+        int altezza = Integer.parseInt(tastiera.nextLine()); // meglio usare questa sintasse per prendere tutta la linea di carratteri
         System.out.println(altezza);
 
         System.out.println(Math.floorMod(base, altezza));       //la formula per calcolare il resto 
