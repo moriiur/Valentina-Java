@@ -19,7 +19,12 @@ import java.util.Scanner;
     System.out.println(sub);
 }
 }*/
-/*public class EsString {
+
+
+
+//substring  
+
+public class EsString {
 public static void main (String[] args){
         
 
@@ -30,7 +35,7 @@ public static void main (String[] args){
     System.out.println(nome==nume);
 
 }
-}*/
+}
 
 
 public class EsString {

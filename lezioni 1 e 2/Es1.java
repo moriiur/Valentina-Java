@@ -66,15 +66,24 @@ import java.util.Scanner;
 
 
 public class Es1 {
-    public static void main(String [] args) {
+   /*  public static void main(String [] args) {
         Scanner tastiera= new Scanner(System.in);
 
         System.out.println("Inserisci la temperatura in Farenheit"); 
-        double F = Double.parseDouble(tastiera.nextLine());
+        double F = Double.parseDouble(tastiera.nextLine());  
 
         double C = 5*(F -32)/9;
         System.out.println("La temperatura in Celsius è " + C);
 
     }
-}
+}*/
 
+
+public static void main(String[] args){
+    double b = 0.1;
+    int a= (int)b;
+    char c = (char)97;
+    System.out.println(a);
+    System.out.println(c);
+}
+}
