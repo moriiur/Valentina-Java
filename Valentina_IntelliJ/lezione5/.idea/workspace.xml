@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e39854e-6af6-4e26-98de-1da678956e55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../lezione4/EserciziCicli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lezione4/foresercizi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1base.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Es1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Es1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EsString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EsString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HelloValentina.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HelloValentina.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../esercizio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../esercizio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../operazioniAritmetiche.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../operazioniAritmetiche.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lezione5/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione4/Esmedie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lezione4/Esmedie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione4/eserciziofor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lezione4/eserciziofor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lezione5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione5/Dado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lezione5/Dado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione5/Pari.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lezione5/Pari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione5/out/production/lezione5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lezione5/out/production/lezione5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione5/out/production/lezione5/Dado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lezione5/vocali.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lezione5/vocali.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +40,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/svilupposoftware2022/Scrivania/Valentina-Java/Valentina_IntelliJ/lezione5"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/svilupposoftware2022/Scrivania/Valentina-Java/Valentina_IntelliJ/lezione5&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.vocali">
     <configuration name="Dado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dado" />

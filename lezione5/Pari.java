@@ -6,11 +6,11 @@ public class Pari {
         boolean pari = true;
         for(int i=0; i<n; i++){
             System.out.println("Inserisci i numeri");
-            System.out.println("n");
             int numero = Integer.parseInt(tastiera.nextLine());
-            if((numero%2)!=0){
+            /*if((numero%2)!=0){
                 pari = false;
-            }
+            }*/
+            pari=pari && numero%2 ==0;  //un altro modo di di controllo del pari o dispari
         }
         return pari;
     }

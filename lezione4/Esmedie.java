@@ -1,11 +1,11 @@
-/*package lezione4;
+package lezione4;
 
 import java.util.Scanner;
 
 public class Esmedie {
   public static void main(String[] args) {*/
-        /*creare una calolatrice*/
-      /*    Scanner tastiera = new Scanner(System.in);
+       /*  creare una calolatrice*/
+         Scanner tastiera = new Scanner(System.in);
        String risposta;
         do{
             System.out.println("Cosa vuoi fare?" +
@@ -24,4 +24,3 @@ public class Esmedie {
         }while(risposta.equals("3"));
     }
 }
-*/

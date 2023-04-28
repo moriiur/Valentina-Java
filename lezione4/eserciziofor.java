@@ -1,7 +1,7 @@
 package lezione4;
 // es chiedere quanto nuemri inserire
 // farli inserire e calcolare la media
-/*import java.util.Scanner;
+import java.util.Scanner;
 public class eserciziofor {
     public static void main(String[] args) {
 
@@ -27,4 +27,3 @@ while(){
         System.out.println(somma/num);
     }
 }
-*/
